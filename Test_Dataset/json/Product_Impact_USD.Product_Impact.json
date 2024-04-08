@@ -1,0 +1,1985 @@
+[{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e07"
+  },
+  "Company": "Nestle",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$19,946,100,000",
+  "Total Product": "-$19,875,238,498",
+  "Affordability": "$7,262,049,867",
+  "Underserved": "$90,893,138",
+  "HealthSafety": "-$15,628,806",
+  "Effectiveness": "-$18,292,651,083",
+  "Pollutants": "-$8,546,687,046",
+  "Recycling": "-$373,214,568"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e08"
+  },
+  "Company": "Danone",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$5,259,500,000",
+  "Total Product": "-$7,844,447,219",
+  "Affordability": "$566,892,820",
+  "Underserved": "$226,274,922",
+  "HealthSafety": "-$268,756",
+  "Effectiveness": "-$8,343,321,509",
+  "Pollutants": "-$180,015,120",
+  "Recycling": "-$114,009,576"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e09"
+  },
+  "Company": "Kraft Heinz",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$7,385,000,000",
+  "Total Product": "-$6,203,823,958",
+  "Affordability": "$2,476,900,443",
+  "Underserved": "$67,337,402",
+  "HealthSafety": "-$4,629,498,035",
+  "Effectiveness": "-$4,002,119,531",
+  "Pollutants": "-$110,580,000",
+  "Recycling": "-$5,864,238"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e0a"
+  },
+  "Company": "Mondelez",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$4,587,000,000",
+  "Total Product": "-$6,856,267,055",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$4,442,992,223",
+  "Effectiveness": "-$2,254,102,218",
+  "Pollutants": "-$89,019,180",
+  "Recycling": "-$70,153,434"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e0b"
+  },
+  "Company": "Ajinomoto",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$1,361,700,000",
+  "Total Product": "-$1,714,448,243",
+  "Affordability": "$512,335,788",
+  "Underserved": "$0",
+  "HealthSafety": "-$1,456,600,320",
+  "Effectiveness": "-$570,415,583",
+  "Pollutants": "-$149,180,058",
+  "Recycling": "-$50,588,070"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e0c"
+  },
+  "Company": "Hormel",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$1,300,100,000",
+  "Total Product": "-$558,879,400",
+  "Affordability": "$395,781,051",
+  "Underserved": "$10,823,348",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$965,483,799"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e0d"
+  },
+  "Company": "Campbell",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$1,683,000,000",
+  "Total Product": "-$1,377,305,036",
+  "Affordability": "$8,095,079",
+  "Underserved": "$25,813,094",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$1,158,178,125",
+  "Pollutants": "-$187,433,442",
+  "Recycling": "-$65,601,642"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e0e"
+  },
+  "Company": "ConAgra",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$1,955,300,000",
+  "Total Product": "-$5,938,954,177",
+  "Affordability": "$152,118,760",
+  "Underserved": "$89,030",
+  "HealthSafety": "-$4,400,221,728",
+  "Effectiveness": "-$1,690,940,238"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e0f"
+  },
+  "Company": "Hershey",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$2,017,700,000",
+  "Total Product": "-$2,595,880,767",
+  "Affordability": "$1,029,376,970",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$3,625,257,737"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e10"
+  },
+  "Company": "Kellogg",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$2,405,000,000",
+  "Total Product": "-$1,113,238,419",
+  "Affordability": "$1,323,190,694",
+  "Underserved": "$2,993,922",
+  "HealthSafety": "-$255,919,681",
+  "Effectiveness": "-$1,560,633,574",
+  "Pollutants": "-$470,090,400",
+  "Recycling": "-$152,779,380"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e11"
+  },
+  "Company": "General Mills",
+  "Industry": "CPG",
+  "Year": 2018,
+  "EBITDA": "$3,319,000,000",
+  "Total Product": "$2,594,413,865",
+  "Affordability": "$3,079,289,863",
+  "Underserved": "$72,888,460",
+  "HealthSafety": "-$30,711,659",
+  "Effectiveness": "-$328,271,000",
+  "Pollutants": "-$150,024,000",
+  "Recycling": "-$48,757,800"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e12"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$15,091,600,000",
+  "Total Product": "-$518,311,961",
+  "Affordability": "$0",
+  "Underserved": "$145,526,310",
+  "HealthSafety": "$400,486,139",
+  "Effectiveness": "$0",
+  "Pollutants": "-$1,298,553,973",
+  "Recycling": "$234,229,564"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e13"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$15,142,400,000",
+  "Total Product": "$609,476,153",
+  "Affordability": "$0",
+  "Underserved": "$156,531,492",
+  "HealthSafety": "$307,589,027",
+  "Effectiveness": "$1,297,378,889",
+  "Pollutants": "-$1,400,001,285",
+  "Recycling": "$247,978,030"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e14"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$15,716,600,000",
+  "Total Product": "-$96,777,984",
+  "Affordability": "$0",
+  "Underserved": "$163,433,039",
+  "HealthSafety": "$255,101,466",
+  "Effectiveness": "$658,928,501",
+  "Pollutants": "-$1,428,141,246",
+  "Recycling": "$253,900,255"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e15"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$14,646,100,000",
+  "Total Product": "-$344,794,723",
+  "Affordability": "$0",
+  "Underserved": "$160,140,594",
+  "HealthSafety": "$216,977,836",
+  "Effectiveness": "$448,838,806",
+  "Pollutants": "-$1,430,809,846",
+  "Recycling": "$260,057,887"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e16"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$19,800,300,000",
+  "Total Product": "-$154,241,322",
+  "Affordability": "$0",
+  "Underserved": "$121,359,841",
+  "HealthSafety": "$38,560,830",
+  "Effectiveness": "$955,210,770",
+  "Pollutants": "-$1,497,677,638",
+  "Recycling": "$228,304,875"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e17"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$19,854,700,000",
+  "Total Product": "-$1,193,350,722",
+  "Affordability": "$0",
+  "Underserved": "$104,571,159",
+  "HealthSafety": "-$460,280,215",
+  "Effectiveness": "$537,435,168",
+  "Pollutants": "-$1,628,109,778",
+  "Recycling": "$253,032,945"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e18"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$19,848,800,000",
+  "Total Product": "-$236,962,557",
+  "Affordability": "$0",
+  "Underserved": "$113,465,865",
+  "HealthSafety": "-$353,224,432",
+  "Effectiveness": "$1,530,713,274",
+  "Pollutants": "-$1,809,307,022",
+  "Recycling": "$281,389,758"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e19"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$16,744,700,000",
+  "Total Product": "-$274,006,578",
+  "Affordability": "$0",
+  "Underserved": "$63,709,999",
+  "HealthSafety": "$218,902,833",
+  "Effectiveness": "$949,357,227",
+  "Pollutants": "-$1,792,414,860",
+  "Recycling": "$286,438,223"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e1a"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$9,022,300,000",
+  "Total Product": "-$3,914,742,226",
+  "Affordability": "$0",
+  "Underserved": "$181,742,823",
+  "Effectiveness": "-$1,281,860,695",
+  "Pollutants": "-$3,253,812,826",
+  "Recycling": "$439,188,473"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e1b"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$10,723,100,000",
+  "Total Product": "-$2,611,879,820",
+  "Affordability": "$0",
+  "Underserved": "$158,998,274",
+  "HealthSafety": "$277,975,053",
+  "Effectiveness": "-$196,292,794",
+  "Pollutants": "-$3,289,552,858",
+  "Recycling": "$436,992,505"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e1c"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$11,770,100,000",
+  "Total Product": "-$2,970,511,621",
+  "Affordability": "$0",
+  "Underserved": "$181,792,806",
+  "HealthSafety": "$323,835,439",
+  "Effectiveness": "-$507,087,491",
+  "Pollutants": "-$3,416,447,927",
+  "Recycling": "$447,395,552"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e1d"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$11,711,000,000",
+  "Total Product": "-$2,918,678,750",
+  "Affordability": "$0",
+  "Underserved": "$181,792,806",
+  "HealthSafety": "$119,401,077",
+  "Effectiveness": "-$348,732,239",
+  "Pollutants": "-$3,326,236,906",
+  "Recycling": "$455,096,513"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e1e"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$16,017,000,000",
+  "Total Product": "-$1,311,390,580",
+  "Affordability": "$0",
+  "Underserved": "$487,019,915",
+  "HealthSafety": "$1,888,113,339",
+  "Effectiveness": "$0",
+  "Pollutants": "-$4,370,204,624",
+  "Recycling": "$683,680,790"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e1f"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$13,080,000,000",
+  "Total Product": "-$311,049,080",
+  "Affordability": "$0",
+  "Underserved": "$496,174,774",
+  "HealthSafety": "$2,033,094,485",
+  "Effectiveness": "$865,624,837",
+  "Pollutants": "-$4,382,370,124",
+  "Recycling": "$676,426,948"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e20"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$15,168,000,000",
+  "Total Product": "-$999,525,538",
+  "Affordability": "$0",
+  "Underserved": "$477,616,719",
+  "HealthSafety": "$2,219,350,591",
+  "Effectiveness": "$0",
+  "Pollutants": "-$4,343,346,459",
+  "Recycling": "$646,853,610"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e21"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$13,467,000,000",
+  "Total Product": "-$1,505,550,221",
+  "Affordability": "$0",
+  "Underserved": "$385,073,768",
+  "HealthSafety": "$1,345,427,556",
+  "Effectiveness": "$200,353,181",
+  "Pollutants": "-$4,016,867,387",
+  "Recycling": "$580,462,661"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e22"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$14,233,000,000",
+  "Total Product": "-$1,812,428,553",
+  "Affordability": "$0",
+  "Underserved": "$1,190,050,385",
+  "HealthSafety": "$2,520,514,159",
+  "Effectiveness": "$146,501,931",
+  "Pollutants": "-$6,732,095,792",
+  "Recycling": "$1,062,600,765"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e23"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$15,089,000,000",
+  "Total Product": "-$655,887,844",
+  "Affordability": "$0",
+  "Underserved": "$1,174,828,282",
+  "HealthSafety": "$2,462,055,525",
+  "Effectiveness": "$1,358,234,869",
+  "Pollutants": "-$6,724,259,478",
+  "Recycling": "$1,073,252,958"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e24"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$14,948,000,000",
+  "Total Product": "-$125,883,391",
+  "Affordability": "$0",
+  "Underserved": "$1,212,997,137",
+  "HealthSafety": "$2,257,011,713",
+  "Effectiveness": "$1,742,671,361",
+  "Pollutants": "-$6,310,704,596",
+  "Recycling": "$972,140,994"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e25"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$13,046,000,000",
+  "Total Product": "-$976,685,039",
+  "Affordability": "$0",
+  "Underserved": "$1,110,986,327",
+  "HealthSafety": "$2,177,124,477",
+  "Effectiveness": "$375,748,909",
+  "Pollutants": "-$5,480,022,773",
+  "Recycling": "$839,478,021"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e26"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$11,094,100,000",
+  "Total Product": "$528,000,346",
+  "Affordability": "$700,867,583",
+  "Underserved": "$448,484,051",
+  "HealthSafety": "$1,205,610,217",
+  "Effectiveness": "$245,249,865",
+  "Pollutants": "-$2,504,745,958",
+  "Recycling": "$432,534,588"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e27"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$9,811,500,000",
+  "Total Product": "$3,840,044,157",
+  "Affordability": "$712,239,230",
+  "Underserved": "$501,193,423",
+  "HealthSafety": "$3,076,683,493",
+  "Effectiveness": "$1,787,103,639",
+  "Pollutants": "-$2,684,251,360",
+  "Recycling": "$447,075,732"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e28"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$12,103,000,000",
+  "Total Product": "$3,033,151,724",
+  "Affordability": "$1,195,269,676",
+  "Underserved": "$549,358,883",
+  "HealthSafety": "$2,954,727,681",
+  "Effectiveness": "$525,084,043",
+  "Pollutants": "-$2,659,450,397",
+  "Recycling": "$468,161,839"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e29"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$15,150,600,000",
+  "Total Product": "$3,689,524,428",
+  "Affordability": "$1,343,172,078",
+  "Underserved": "$563,672,204",
+  "HealthSafety": "$2,876,489,151",
+  "Effectiveness": "$1,089,486,047",
+  "Pollutants": "-$2,664,388,819",
+  "Recycling": "$481,093,768"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e2a"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$7,319,800,000",
+  "Total Product": "$2,708,643,482",
+  "Affordability": "$3,388,100,079",
+  "HealthSafety": "$1,579,804,381",
+  "Effectiveness": "$108,049,620",
+  "Pollutants": "-$2,816,329,601",
+  "Recycling": "$449,019,002"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e2b"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$7,481,400,000",
+  "Total Product": "$2,552,312,713",
+  "Affordability": "$2,871,354,207",
+  "HealthSafety": "$1,718,042,445",
+  "Effectiveness": "$217,793,854",
+  "Pollutants": "-$2,701,240,059",
+  "Recycling": "$446,362,267"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e2c"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$6,013,200,000",
+  "Total Product": "$3,071,892,933",
+  "Affordability": "$2,544,459,362",
+  "Underserved": "$475,648,008",
+  "HealthSafety": "$1,370,833,326",
+  "Effectiveness": "$720,704,981",
+  "Pollutants": "-$2,445,945,887",
+  "Recycling": "$406,193,143"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e2d"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$4,219,500,000",
+  "Total Product": "$2,789,150,602",
+  "Affordability": "$2,754,013,845",
+  "Underserved": "$490,660,182",
+  "HealthSafety": "$1,495,618,531",
+  "Effectiveness": "$102,213,973",
+  "Pollutants": "-$2,465,983,401",
+  "Recycling": "$412,627,472"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e2e"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$3,305,000,000",
+  "Total Product": "$1,830,443,630",
+  "Affordability": "$2,228,354,525",
+  "Underserved": "$170,244,682",
+  "HealthSafety": "$962,441,042",
+  "Effectiveness": "-$117,676,393",
+  "Pollutants": "-$1,657,168,120",
+  "Recycling": "$244,247,895"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e2f"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$3,629,500,000",
+  "Total Product": "$2,016,152,369",
+  "Affordability": "$2,420,184,327",
+  "Underserved": "$194,732,048",
+  "HealthSafety": "$870,404,464",
+  "Effectiveness": "$0",
+  "Pollutants": "-$1,729,824,028",
+  "Recycling": "$260,655,559"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e30"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$2,202,700,000",
+  "Total Product": "$2,239,108,028",
+  "Affordability": "$2,050,808,222",
+  "Underserved": "$163,035,540",
+  "HealthSafety": "$971,969,509",
+  "Effectiveness": "$347,656,044",
+  "Pollutants": "-$1,528,658,432",
+  "Recycling": "$234,297,145"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e31"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$2,705,100,000",
+  "Total Product": "$1,300,503,078",
+  "Affordability": "$1,702,921,419",
+  "Underserved": "$187,848,575",
+  "HealthSafety": "$689,376,583",
+  "Effectiveness": "$0",
+  "Pollutants": "-$1,521,254,166",
+  "Recycling": "$241,610,668"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e32"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$2,572,700,000",
+  "Total Product": "$731,549,715",
+  "Affordability": "$436,242,745",
+  "Underserved": "$117,752,509",
+  "HealthSafety": "$691,321,852",
+  "Effectiveness": "$72,955,838",
+  "Pollutants": "-$719,889,825",
+  "Recycling": "$133,166,596"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e33"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$2,894,500,000",
+  "Total Product": "$758,272,124",
+  "Affordability": "$546,953,950",
+  "Underserved": "$111,874,278",
+  "HealthSafety": "$657,280,273",
+  "Effectiveness": "$79,108,614",
+  "Pollutants": "-$781,091,888",
+  "Recycling": "$144,146,897"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e34"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$1,970,100,000",
+  "Total Product": "$778,879,131",
+  "Affordability": "$460,573,207",
+  "Underserved": "$124,323,460",
+  "HealthSafety": "$610,198,422",
+  "Effectiveness": "$244,480,291",
+  "Pollutants": "-$807,672,963",
+  "Recycling": "$146,976,716"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e35"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$2,209,300,000",
+  "Total Product": "$744,907,560",
+  "Affordability": "$375,383,294",
+  "Underserved": "$137,105,709",
+  "HealthSafety": "$842,077,129",
+  "Effectiveness": "$85,807,687",
+  "Pollutants": "-$855,843,645",
+  "Recycling": "$160,377,385"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e36"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$9,289,600,000",
+  "Total Product": "-$261,703,812",
+  "Affordability": "$1,526,037,080",
+  "Underserved": "$189,740,561",
+  "HealthSafety": "$955,005,753",
+  "Effectiveness": "-$528,059,802",
+  "Pollutants": "-$2,898,295,003",
+  "Recycling": "$493,867,599"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e37"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$11,580,500,000",
+  "Total Product": "$599,869,953",
+  "Affordability": "$1,798,812,134",
+  "Underserved": "$183,549,845",
+  "HealthSafety": "$862,366,036",
+  "Effectiveness": "$274,408,145",
+  "Pollutants": "-$3,034,090,857",
+  "Recycling": "$514,824,650"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e38"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$10,752,800,000",
+  "Total Product": "-$29,052,073",
+  "Affordability": "$1,742,449,754",
+  "Underserved": "$186,019,325",
+  "HealthSafety": "$451,274,616",
+  "Effectiveness": "$284,178,928",
+  "Pollutants": "-$3,223,429,298",
+  "Recycling": "$530,454,602"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e39"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$9,128,300,000",
+  "Total Product": "$234,819,026",
+  "Affordability": "$1,952,120,617",
+  "Underserved": "$185,224,549",
+  "HealthSafety": "$377,612,729",
+  "Effectiveness": "$266,607,138",
+  "Pollutants": "-$3,052,594,380",
+  "Recycling": "$505,848,373"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e3a"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$5,311,400,000",
+  "Total Product": "$678,632,129",
+  "Affordability": "$1,030,252,932",
+  "Underserved": "$249,917,397",
+  "Pollutants": "-$845,888,910",
+  "Recycling": "$244,350,710"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e3b"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$4,985,000,000",
+  "Total Product": "$2,154,681,725",
+  "Affordability": "$1,145,945,753",
+  "Underserved": "$273,752,029",
+  "HealthSafety": "$1,356,535,005",
+  "Pollutants": "-$877,963,777",
+  "Recycling": "$256,412,715"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e3c"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$5,729,000,000",
+  "Total Product": "$2,098,484,504",
+  "Affordability": "$1,034,236,836",
+  "Underserved": "$281,371,941",
+  "HealthSafety": "$1,527,045,925",
+  "Pollutants": "-$1,039,414,888",
+  "Recycling": "$295,244,689"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e3d"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$7,495,000,000",
+  "Total Product": "$1,385,341,099",
+  "Affordability": "$906,612,683",
+  "Underserved": "$171,831,870",
+  "HealthSafety": "$1,195,260,650",
+  "Pollutants": "-$1,205,827,139",
+  "Recycling": "$317,463,034"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e3e"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$4,675,500,000",
+  "Total Product": "$377,549,243",
+  "Affordability": "$0",
+  "Underserved": "$21,796,007",
+  "HealthSafety": "$567,777,736",
+  "Effectiveness": "$179,588,201",
+  "Pollutants": "-$513,892,657",
+  "Recycling": "$122,279,956"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e3f"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$6,040,500,000",
+  "Total Product": "$542,308,768",
+  "Affordability": "$0",
+  "Underserved": "$21,563,586",
+  "HealthSafety": "$625,192,707",
+  "Effectiveness": "$331,114,623",
+  "Pollutants": "-$570,944,002",
+  "Recycling": "$135,381,855"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e40"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$4,690,000,000",
+  "Total Product": "$491,599,981",
+  "Affordability": "$0",
+  "Underserved": "$18,137,477",
+  "HealthSafety": "$538,559,494",
+  "Effectiveness": "$394,352,804",
+  "Pollutants": "-$563,228,759",
+  "Recycling": "$103,778,965"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e41"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$4,549,000,000",
+  "Total Product": "$403,569,752",
+  "Affordability": "$0",
+  "Underserved": "$16,854,049",
+  "HealthSafety": "$502,946,733",
+  "Effectiveness": "$309,708,634",
+  "Pollutants": "-$524,338,002",
+  "Recycling": "$98,398,339"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e42"
+  },
+  "Company": "TESLA",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$1,648,000,000",
+  "Total Product": "$124,099,382",
+  "Affordability": "$0",
+  "Underserved": "$12,491,380",
+  "HealthSafety": "$82,412,215",
+  "Pollutants": "$0",
+  "Recycling": "$29,195,788"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e43"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$39,378,600,000",
+  "Total Product": "$90,011,823",
+  "Affordability": "$0",
+  "Underserved": "$352,637,618",
+  "HealthSafety": "$2,469,210,085",
+  "Effectiveness": "$1,672,538,476",
+  "Pollutants": "-$5,407,071,551",
+  "Recycling": "$1,002,697,194"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e44"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$42,409,600,000",
+  "Total Product": "$1,399,361,131",
+  "Affordability": "$0",
+  "Underserved": "$362,914,101",
+  "HealthSafety": "$2,169,223,733",
+  "Effectiveness": "$3,134,416,843",
+  "Pollutants": "-$5,222,353,292",
+  "Recycling": "$955,159,746"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e45"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$34,131,000,000",
+  "Total Product": "$1,985,129,351",
+  "Affordability": "$0",
+  "Underserved": "$305,720,945",
+  "HealthSafety": "$2,253,581,548",
+  "Effectiveness": "$3,775,621,815",
+  "Pollutants": "-$5,333,002,513",
+  "Recycling": "$983,207,555"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e46"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$39,134,900,000",
+  "Total Product": "$612,073,238",
+  "Affordability": "$0",
+  "Underserved": "$315,683,941",
+  "HealthSafety": "$2,447,078,492",
+  "Effectiveness": "$2,135,900,654",
+  "Pollutants": "-$5,282,034,297",
+  "Recycling": "$995,444,450"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e47"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2015,
+  "EBITDA": "$19,123,200,000",
+  "Total Product": "-$1,034,801,783",
+  "Affordability": "$0",
+  "Underserved": "$483,709,130",
+  "HealthSafety": "$2,815,667,780",
+  "Effectiveness": "$599,294,196",
+  "Pollutants": "-$5,752,450,343",
+  "Recycling": "$818,977,454"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e48"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2016,
+  "EBITDA": "$28,974,000,000",
+  "Total Product": "-$1,192,792,375",
+  "Affordability": "$0",
+  "Underserved": "$474,995,942",
+  "HealthSafety": "$3,872,927,457",
+  "Effectiveness": "-$626,553,792",
+  "Pollutants": "-$5,881,953,977",
+  "Recycling": "$967,791,995"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e49"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2017,
+  "EBITDA": "$29,961,000,000",
+  "Total Product": "-$1,312,836,622",
+  "Affordability": "$0",
+  "Underserved": "$523,731,291",
+  "HealthSafety": "$3,426,984,998",
+  "Effectiveness": "$0",
+  "Pollutants": "-$6,137,621,432",
+  "Recycling": "$874,068,520"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e4a"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2018,
+  "EBITDA": "$37,437,100,000",
+  "Total Product": "$913,566,172",
+  "Affordability": "$0",
+  "Underserved": "$562,397,637",
+  "HealthSafety": "$4,133,097,402",
+  "Effectiveness": "$1,991,051,528",
+  "Pollutants": "-$6,662,041,157",
+  "Recycling": "$889,060,763"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e4b"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2015,
+  "EBITDA": "$3,859,593,132",
+  "Total Product": "$2,730,258,376",
+  "Affordability": "$1,805,788,094",
+  "Underserved": "$1,067,364,968",
+  "HealthSafety": "-$1,446,276",
+  "Effectiveness": "-$134,804,069",
+  "Monopoly": "-$432,185",
+  "Recycling": "-$6,212,156"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e4c"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2016,
+  "EBITDA": "$3,651,904,827",
+  "Total Product": "$3,269,370,644",
+  "Affordability": "$2,237,707,129",
+  "Underserved": "$1,067,364,968",
+  "HealthSafety": "-$1,598,992",
+  "Effectiveness": "-$27,457,831",
+  "Monopoly": "-$432,475",
+  "Recycling": "-$6,212,156"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e4d"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2017,
+  "EBITDA": "$3,630,528,252",
+  "Total Product": "$2,896,603,019",
+  "Affordability": "$2,627,998,329",
+  "Underserved": "$1,067,364,968",
+  "HealthSafety": "-$895,189,916",
+  "Effectiveness": "$103,193,408",
+  "Monopoly": "-$551,615",
+  "Recycling": "-$6,212,156"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e4e"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2018,
+  "EBITDA": "$4,839,419,219",
+  "Total Product": "$3,894,915,881",
+  "Affordability": "$3,668,497,529",
+  "Underserved": "$1,067,364,968",
+  "HealthSafety": "-$864,459,314",
+  "Effectiveness": "$30,521,831",
+  "Monopoly": "-$796,977",
+  "Recycling": "-$6,212,156"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e4f"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2015,
+  "EBITDA": "$3,164,635,835",
+  "Total Product": "-$1,414,064,069",
+  "Affordability": "$23,958,763",
+  "Underserved": "$111,122,501",
+  "HealthSafety": "-$777,723,910",
+  "Effectiveness": "-$764,382,000",
+  "Monopoly": "-$205,651",
+  "Recycling": "-$6,833,772"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e50"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2016,
+  "EBITDA": "$3,271,372,429",
+  "Total Product": "-$1,353,215,056",
+  "Affordability": "$23,010,309",
+  "Underserved": "$116,939,377",
+  "HealthSafety": "-$854,482,637",
+  "Effectiveness": "-$631,326,000",
+  "Monopoly": "-$164,608",
+  "Recycling": "-$7,191,496"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e51"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2017,
+  "EBITDA": "$3,147,925,643",
+  "Total Product": "-$1,384,457,571",
+  "Affordability": "$18,762,887",
+  "Underserved": "$121,251,608",
+  "HealthSafety": "-$981,318,829",
+  "Effectiveness": "-$535,227,000",
+  "Monopoly": "-$469,548",
+  "Recycling": "-$7,456,688"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e52"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2018,
+  "EBITDA": "$3,364,503,741",
+  "Total Product": "-$1,615,074,169",
+  "Affordability": "$18,886,598",
+  "Underserved": "$125,842,778",
+  "HealthSafety": "-$1,062,845,730",
+  "Effectiveness": "-$688,116,000",
+  "Monopoly": "-$805,125",
+  "Recycling": "-$8,036,690"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e53"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2015,
+  "EBITDA": "$3,122,871,482",
+  "Total Product": "$4,340,230,669",
+  "Affordability": "$3,425,175,950",
+  "Underserved": "$1,357,078,125",
+  "HealthSafety": "-$615,561,263",
+  "Effectiveness": "$178,902,000",
+  "Monopoly": "-$162,337",
+  "Recycling": "-$5,201,806"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e54"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2016,
+  "EBITDA": "$3,136,070,959",
+  "Total Product": "$4,200,346,399",
+  "Affordability": "$3,185,771,750",
+  "Underserved": "$1,519,804,688",
+  "HealthSafety": "-$685,619,452",
+  "Effectiveness": "$186,030,000",
+  "Monopoly": "-$138,677",
+  "Recycling": "-$5,501,910"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e55"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2017,
+  "EBITDA": "$2,998,505,303",
+  "Total Product": "$3,471,704,901",
+  "Affordability": "$2,601,719,750",
+  "Underserved": "$1,464,539,063",
+  "HealthSafety": "-$794,671,157",
+  "Effectiveness": "$205,582,000",
+  "Monopoly": "-$162,914",
+  "Recycling": "-$5,301,840"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e56"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2018,
+  "EBITDA": "$3,014,384,746",
+  "Total Product": "$2,419,680,953",
+  "Affordability": "$1,543,376,538",
+  "Underserved": "$1,665,491,016",
+  "HealthSafety": "-$1,092,502,494",
+  "Effectiveness": "$309,225,000",
+  "Monopoly": "-$197,124",
+  "Recycling": "-$5,711,983"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e57"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2015,
+  "EBITDA": "$5,796,178,439",
+  "Total Product": "-$604,558,181",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$822,931,251",
+  "Effectiveness": "$230,644,800",
+  "Monopoly": "-$487,640",
+  "Recycling": "-$11,784,090"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e58"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2016,
+  "EBITDA": "$5,007,876,646",
+  "Total Product": "-$519,903,214",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$803,326,053",
+  "Effectiveness": "$295,454,400",
+  "Monopoly": "-$1,037,745",
+  "Recycling": "-$10,993,816"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e59"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2017,
+  "EBITDA": "$5,180,118,311",
+  "Total Product": "-$385,365,187",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$851,477,678",
+  "Effectiveness": "$479,066,800",
+  "Monopoly": "-$1,670,392",
+  "Recycling": "-$11,283,917"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e5a"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2018,
+  "EBITDA": "$4,969,504,933",
+  "Total Product": "-$488,771,497",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$950,621,905",
+  "Effectiveness": "$476,180,000",
+  "Monopoly": "-$2,925,634",
+  "Recycling": "-$11,403,958"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e5b"
+  },
+  "Company": "American",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "EBITDA": "$8,893,000,000",
+  "Total Product": "-$2,359,095,937",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$2,330,526,749",
+  "Basic Need": "$0",
+  "Monopoly": "-$28,569,188",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e5c"
+  },
+  "Company": "American ",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "EBITDA": "$7,678,000,000",
+  "Total Product": "-$66,755,312",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$1,051,642",
+  "Effectiveness": "-$48,582,552",
+  "Basic Need": "$0",
+  "Monopoly": "-$17,121,118",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e5d"
+  },
+  "Company": "American",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "EBITDA": "$7,120,000,000",
+  "Total Product": "$989,288,417",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$1,346,428,924",
+  "Basic Need": "$0",
+  "Monopoly": "-$357,140,507",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e5e"
+  },
+  "Company": "American",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "EBITDA": "$5,916,000,000",
+  "Total Product": "-$2,162,884,211",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$338,438,880",
+  "Basic Need": "$0",
+  "Monopoly": "-$2,501,323,091",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e5f"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "EBITDA": "$8,188,000,000",
+  "Total Product": "$473,168,764",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$525,821",
+  "Effectiveness": "$474,347,051",
+  "Basic Need": "$0",
+  "Monopoly": "-$652,466",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e60"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "EBITDA": "$7,952,000,000",
+  "Total Product": "$521,634,815",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$534,850,778",
+  "Basic Need": "$0",
+  "Monopoly": "-$13,215,963",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e61"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "EBITDA": "$8,210,000,000",
+  "Total Product": "$661,103,390",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$1,780,426,177",
+  "Basic Need": "$0",
+  "Monopoly": "-$1,119,322,786",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e62"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "EBITDA": "$7,583,000,000",
+  "Total Product": "-$896,593,778",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$2,103,284",
+  "Effectiveness": "$1,613,773,383",
+  "Basic Need": "$0",
+  "Monopoly": "-$2,508,263,877",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e63"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "EBITDA": "$7,218,000,000",
+  "Total Product": "-$4,139,732,559",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$4,115,697,683",
+  "Basic Need": "$0",
+  "Monopoly": "-$24,034,876",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e64"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "EBITDA": "$6,958,000,000",
+  "Total Product": "-$387,056,438",
+  "Affordability": "$736,081,500",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$1,105,570,683",
+  "Basic Need": "$0",
+  "Monopoly": "-$17,567,255",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e65"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "EBITDA": "$5,669,000,000",
+  "Total Product": "$63,060,733",
+  "Affordability": "$562,278,600",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$485,800,049",
+  "Basic Need": "$0",
+  "Monopoly": "-$13,417,818",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e66"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "EBITDA": "$5,713,000,000",
+  "Total Product": "-$3,073,600,748",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$2,103,284",
+  "Effectiveness": "-$1,702,656,184",
+  "Basic Need": "$0",
+  "Monopoly": "-$1,368,841,280",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e67"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "EBITDA": "$4,866,000,000",
+  "Total Product": "-$80,195,841",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$971,847,327",
+  "Basic Need": "$0",
+  "Monopoly": "-$1,052,043,168",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e68"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "EBITDA": "$4,818,000,000",
+  "Total Product": "$424,976,993",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$1,413,898,505",
+  "Basic Need": "$0",
+  "Monopoly": "-$988,921,511",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e69"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "EBITDA": "$4,383,000,000",
+  "Total Product": "$202,187,122",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$1,339,138,280",
+  "Basic Need": "$0",
+  "Monopoly": "-$1,136,951,158",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e6a"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "EBITDA": "$4,201,000,000",
+  "Total Product": "$115,576,070",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "-$525,821",
+  "Effectiveness": "$1,459,812,748",
+  "Basic Need": "$0",
+  "Monopoly": "-$1,343,710,857",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e6b"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "EBITDA": "$1,650,000,000",
+  "Total Product": "$457,262,424",
+  "Affordability": "$270,026,000",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$234,890,502",
+  "Basic Need": "$0",
+  "Monopoly": "-$47,654,078",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e6c"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "EBITDA": "$1,773,000,000",
+  "Total Product": "$960,766,624",
+  "Affordability": "$617,669,400",
+  "Underserved": "$0",
+  "HealthSafety": "-$525,821",
+  "Effectiveness": "$390,777,228",
+  "Basic Need": "$0",
+  "Monopoly": "-$47,154,183",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e6d"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "EBITDA": "$1,696,000,000",
+  "Total Product": "$1,222,027,342",
+  "Affordability": "$790,303,800",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$480,773,817",
+  "Basic Need": "$0",
+  "Monopoly": "-$49,050,275",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e6e"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "EBITDA": "$1,191,000,000",
+  "Total Product": "$1,437,190,196",
+  "Affordability": "$973,179,400",
+  "Underserved": "$0",
+  "HealthSafety": "-$1,051,642",
+  "Effectiveness": "$593,355,848",
+  "Basic Need": "$0",
+  "Monopoly": "-$128,293,410",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e6f"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "EBITDA": "$1,506,000,000",
+  "Total Product": "$341,476,759",
+  "Affordability": "$0",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$434,061,597",
+  "Basic Need": "$0",
+  "Monopoly": "-$92,584,838",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e70"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "EBITDA": "$1,621,000,000",
+  "Total Product": "$678,549,259",
+  "Affordability": "$342,142,500",
+  "Underserved": "$0",
+  "HealthSafety": "-$1,051,642",
+  "Effectiveness": "$408,847,989",
+  "Basic Need": "$0",
+  "Monopoly": "-$71,389,588",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e71"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "EBITDA": "$1,356,000,000",
+  "Total Product": "$635,363,447",
+  "Affordability": "$283,440,000",
+  "Underserved": "$0",
+  "HealthSafety": "-$1,051,642",
+  "Effectiveness": "$426,990,205",
+  "Basic Need": "$0",
+  "Monopoly": "-$74,015,116",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e72"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "EBITDA": "$1,124,000,000",
+  "Total Product": "$434,846,633",
+  "Affordability": "$213,318,000",
+  "Underserved": "$0",
+  "HealthSafety": "$0",
+  "Effectiveness": "$291,130,760",
+  "Basic Need": "$0",
+  "Monopoly": "-$69,602,127",
+  "Pollutants": "$0",
+  "Recycling": "$0"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e73"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "EBITDA": "$1,512,000,000",
+  "Total Product": "-$2,355,586,202",
+  "Underserved": "$6,162,334",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$3,320,018,411",
+  "Basic Need": "$958,269,875"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e74"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "EBITDA": "$1,617,000,000",
+  "Total Product": "-$2,702,236,232",
+  "Underserved": "$6,213,262",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$3,674,638,955",
+  "Basic Need": "$966,189,461"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e75"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "EBITDA": "$1,720,000,000",
+  "Total Product": "-$2,644,780,432",
+  "Underserved": "$6,290,178",
+  "HealthSafety": "-$150,752,070",
+  "Effectiveness": "-$3,478,468,713",
+  "Basic Need": "$978,150,174"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e76"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "EBITDA": "$1,684,000,000",
+  "Total Product": "-$2,569,580,353",
+  "Underserved": "$7,129,973",
+  "HealthSafety": "-$170,887,500",
+  "Effectiveness": "-$3,514,564,830",
+  "Basic Need": "$1,108,742,004"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e77"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "EBITDA": "$757,300,000",
+  "Total Product": "$912,592,384",
+  "Underserved": "$44,338,413",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$1,151,240,393",
+  "Basic Need": "$2,019,494,365"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e78"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "EBITDA": "$843,400,000",
+  "Total Product": "$612,925,459",
+  "Underserved": "$60,899,475",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$1,404,111,694",
+  "Basic Need": "$1,956,137,679"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e79"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "EBITDA": "$964,500,000",
+  "Total Product": "$995,698,946",
+  "Underserved": "$67,401,796",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$1,043,679,700",
+  "Basic Need": "$1,971,976,850"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e7a"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "EBITDA": "$1,207,500,000",
+  "Total Product": "$668,087,308",
+  "Underserved": "$60,339,093",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$1,380,067,806",
+  "Basic Need": "$1,987,816,022"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e7b"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "EBITDA": "$1,116,800,000",
+  "Total Product": "$204,419,246",
+  "Underserved": "$4,341,384",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$481,006,513",
+  "Basic Need": "$681,084,374"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e7c"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "EBITDA": "$1,083,100,000",
+  "Total Product": "$240,345,375",
+  "Underserved": "$6,372,551",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$478,789,893",
+  "Basic Need": "$712,762,717"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e7d"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "EBITDA": "$1,120,400,000",
+  "Total Product": "$200,870,461",
+  "Underserved": "$10,767,389",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$490,981,302",
+  "Basic Need": "$681,084,374"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e7e"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "EBITDA": "$1,153,500,000",
+  "Total Product": "$248,390,112",
+  "Underserved": "$8,875,739",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$473,248,343",
+  "Basic Need": "$712,762,717"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e7f"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "EBITDA": "$1,405,800,000",
+  "Total Product": "-$1,911,776,499",
+  "Underserved": "$0",
+  "HealthSafety": "-$1,953,000,000",
+  "Effectiveness": "-$513,147,501",
+  "Basic Need": "$554,371,002"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e80"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "EBITDA": "$1,294,400,000",
+  "Total Product": "$82,182,491",
+  "Underserved": "$737,000",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$488,764,682",
+  "Basic Need": "$570,210,174"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e81"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "EBITDA": "$1,372,100,000",
+  "Total Product": "$60,762,673",
+  "Underserved": "$3,700,000",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$513,147,501",
+  "Basic Need": "$570,210,174"
+},
+{
+  "_id": {
+    "$oid": "66138be780252ee8c51e4e82"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "EBITDA": "$1,424,100,000",
+  "Total Product": "$64,262,673",
+  "Underserved": "$7,200,000",
+  "HealthSafety": "$0",
+  "Effectiveness": "-$513,147,501",
+  "Basic Need": "$570,210,174"
+}]

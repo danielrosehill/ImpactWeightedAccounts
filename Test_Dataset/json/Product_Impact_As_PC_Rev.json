@@ -1,0 +1,2158 @@
+[{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e8b"
+  },
+  "Company": "Nestle",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-24.9%",
+  "Affordability": "9.1%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-22.9%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-10.7%",
+  "Recyling, Recovery, Waste": "-0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e8c"
+  },
+  "Company": "Danone",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-26.9%",
+  "Affordability": "1.9%",
+  "Underserved": "0.8%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-28.6%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-0.6%",
+  "Recyling, Recovery, Waste": "-0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e8d"
+  },
+  "Company": "Kraft Heinz",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-23.6%",
+  "Affordability": "9.4%",
+  "Underserved": "0.3%",
+  "Health & Safety": "-17.6%",
+  "Effectiveness": "-15.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-0.4%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e8e"
+  },
+  "Company": "Mondelez",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-26.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-17.1%",
+  "Effectiveness": "-8.7%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-0.3%",
+  "Recyling, Recovery, Waste": "-0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e8f"
+  },
+  "Company": "Ajinomoto",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-16.7%",
+  "Affordability": "5.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-14.2%",
+  "Effectiveness": "-5.6%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.5%",
+  "Recyling, Recovery, Waste": "-0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e90"
+  },
+  "Company": "Hormel",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-5.9%",
+  "Affordability": "4.1%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-10.1%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "NA",
+  "Recyling, Recovery, Waste": "NA"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e91"
+  },
+  "Company": "Campbell",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-15.9%",
+  "Affordability": "0.1%",
+  "Underserved": "0.3%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-13.3%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.2%",
+  "Recyling, Recovery, Waste": "-0.8%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e92"
+  },
+  "Company": "ConAgra",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-74.8%",
+  "Affordability": "1.9%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-55.4%",
+  "Effectiveness": "-21.3%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "NA",
+  "Recyling, Recovery, Waste": "NA"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e93"
+  },
+  "Company": "Hershey",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-32.9%",
+  "Affordability": "13.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-45.9%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "NA",
+  "Recyling, Recovery, Waste": "NA"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e94"
+  },
+  "Company": "Kellogg",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "-8.2%",
+  "Affordability": "9.8%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-1.9%",
+  "Effectiveness": "-11.5%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.5%",
+  "Recyling, Recovery, Waste": "-1.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e95"
+  },
+  "Company": "General Mills",
+  "Industry": "CPG",
+  "Year": 2018,
+  "Total Product": "16.5%",
+  "Affordability": "19.6%",
+  "Underserved": "0.5%",
+  "Health & Safety": "-0.2%",
+  "Effectiveness": "-2.1%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.0%",
+  "Recyling, Recovery, Waste": "-0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e96"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "-0.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.4%",
+  "Effectiveness": "0.0%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.3%",
+  "Recyling, Recovery, Waste": "0.2%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e97"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "0.6%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.3%",
+  "Effectiveness": "1.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.4%",
+  "Recyling, Recovery, Waste": "0.2%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e98"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "-0.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.2%",
+  "Effectiveness": "0.6%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.3%",
+  "Recyling, Recovery, Waste": "0.2%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e99"
+  },
+  "Company": "BMW GROUP",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "-0.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.2%",
+  "Effectiveness": "0.4%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.2%",
+  "Recyling, Recovery, Waste": "0.2%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e9a"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "-0.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "0.6%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-0.9%",
+  "Recyling, Recovery, Waste": "0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e9b"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "-0.7%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "-0.3%",
+  "Effectiveness": "0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-0.9%",
+  "Recyling, Recovery, Waste": "0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e9c"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "-0.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "-0.2%",
+  "Effectiveness": "0.9%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.0%",
+  "Recyling, Recovery, Waste": "0.2%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e9d"
+  },
+  "Company": "DAIMLER",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "-0.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.1%",
+  "Effectiveness": "0.5%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-0.9%",
+  "Recyling, Recovery, Waste": "0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e9e"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "-3.2%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Effectiveness": "-1.0%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.7%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4e9f"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "-2.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.2%",
+  "Effectiveness": "-0.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.7%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea0"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "-2.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.3%",
+  "Effectiveness": "-0.4%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.9%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea1"
+  },
+  "Company": "FIAT CHRYSLER AUTOMOBILES",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "-2.2%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.1%",
+  "Effectiveness": "-0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.6%",
+  "Recyling, Recovery, Waste": "0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea2"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "-0.9%",
+  "Affordability": "0.0%",
+  "Underserved": "0.3%",
+  "Health & Safety": "1.3%",
+  "Effectiveness": "0.0%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.9%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea3"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "-0.2%",
+  "Affordability": "0.0%",
+  "Underserved": "0.3%",
+  "Health & Safety": "1.3%",
+  "Effectiveness": "0.6%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.9%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea4"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "-0.6%",
+  "Affordability": "0.0%",
+  "Underserved": "0.3%",
+  "Health & Safety": "1.4%",
+  "Effectiveness": "0.0%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.8%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea5"
+  },
+  "Company": "FORD MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "-0.9%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.8%",
+  "Effectiveness": "0.1%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.5%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea6"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "-1.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.9%",
+  "Health & Safety": "1.9%",
+  "Effectiveness": "0.1%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-5.0%",
+  "Recyling, Recovery, Waste": "0.8%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea7"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "-0.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.8%",
+  "Health & Safety": "1.7%",
+  "Effectiveness": "0.9%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-4.5%",
+  "Recyling, Recovery, Waste": "0.7%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea8"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "-0.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.8%",
+  "Health & Safety": "1.6%",
+  "Effectiveness": "1.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-4.3%",
+  "Recyling, Recovery, Waste": "0.7%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ea9"
+  },
+  "Company": "GENERAL MOTORS",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "-0.7%",
+  "Affordability": "0.0%",
+  "Underserved": "0.8%",
+  "Health & Safety": "1.5%",
+  "Effectiveness": "0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.7%",
+  "Recyling, Recovery, Waste": "0.6%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eaa"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "0.4%",
+  "Affordability": "0.5%",
+  "Underserved": "0.3%",
+  "Health & Safety": "0.9%",
+  "Effectiveness": "0.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.9%",
+  "Recyling, Recovery, Waste": "0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eab"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "3.1%",
+  "Affordability": "0.6%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.4%",
+  "Effectiveness": "1.4%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.1%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eac"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "2.1%",
+  "Affordability": "0.8%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.0%",
+  "Effectiveness": "0.4%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.8%",
+  "Recyling, Recovery, Waste": "0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ead"
+  },
+  "Company": "HONDA MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "2.6%",
+  "Affordability": "0.9%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.0%",
+  "Effectiveness": "0.8%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.9%",
+  "Recyling, Recovery, Waste": "0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eae"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "3.5%",
+  "Affordability": "4.3%",
+  "Underserved": "NA",
+  "Health & Safety": "2.0%",
+  "Effectiveness": "0.1%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.6%",
+  "Recyling, Recovery, Waste": "0.6%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eaf"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "3.3%",
+  "Affordability": "3.7%",
+  "Underserved": "NA",
+  "Health & Safety": "2.2%",
+  "Effectiveness": "0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.5%",
+  "Recyling, Recovery, Waste": "0.6%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb0"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "3.4%",
+  "Affordability": "2.8%",
+  "Underserved": "0.5%",
+  "Health & Safety": "1.5%",
+  "Effectiveness": "0.8%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.7%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb1"
+  },
+  "Company": "HYUNDAI MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "3.2%",
+  "Affordability": "3.2%",
+  "Underserved": "0.6%",
+  "Health & Safety": "1.7%",
+  "Effectiveness": "0.1%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.8%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb2"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "4.1%",
+  "Affordability": "5.0%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.2%",
+  "Effectiveness": "-0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.7%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb3"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "4.5%",
+  "Affordability": "5.4%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.0%",
+  "Effectiveness": "0.0%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.9%",
+  "Recyling, Recovery, Waste": "0.6%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb4"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "4.7%",
+  "Affordability": "4.3%",
+  "Underserved": "0.3%",
+  "Health & Safety": "2.1%",
+  "Effectiveness": "0.7%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.2%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb5"
+  },
+  "Company": "KIA MOTORS",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "2.6%",
+  "Affordability": "3.4%",
+  "Underserved": "0.4%",
+  "Health & Safety": "1.4%",
+  "Effectiveness": "0.0%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-3.0%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb6"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "2.9%",
+  "Affordability": "1.7%",
+  "Underserved": "0.5%",
+  "Health & Safety": "2.7%",
+  "Effectiveness": "0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.8%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb7"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "2.5%",
+  "Affordability": "1.8%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.2%",
+  "Effectiveness": "0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.6%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb8"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "2.7%",
+  "Affordability": "1.6%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.1%",
+  "Effectiveness": "0.8%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.8%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eb9"
+  },
+  "Company": "MAZDA",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "2.3%",
+  "Affordability": "1.1%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.6%",
+  "Effectiveness": "0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.6%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eba"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "-0.2%",
+  "Affordability": "1.3%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.8%",
+  "Effectiveness": "-0.5%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.5%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ebb"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "0.5%",
+  "Affordability": "1.5%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.7%",
+  "Effectiveness": "0.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.5%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ebc"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "0.0%",
+  "Affordability": "1.4%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.4%",
+  "Effectiveness": "0.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.6%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ebd"
+  },
+  "Company": "NISSAN MOTOR COMPANY",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "0.2%",
+  "Affordability": "1.6%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.3%",
+  "Effectiveness": "0.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.5%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ebe"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "1.1%",
+  "Affordability": "1.7%",
+  "Underserved": "0.4%",
+  "Health & Safety": "NA",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.4%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ebf"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "3.8%",
+  "Affordability": "2.0%",
+  "Underserved": "0.5%",
+  "Health & Safety": "2.4%",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.5%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec0"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "2.8%",
+  "Affordability": "1.4%",
+  "Underserved": "0.4%",
+  "Health & Safety": "2.0%",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.4%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec1"
+  },
+  "Company": "GROUPE PSA",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "1.6%",
+  "Affordability": "1.1%",
+  "Underserved": "0.2%",
+  "Health & Safety": "1.4%",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.4%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec2"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "1.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "2.0%",
+  "Effectiveness": "0.6%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.8%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec3"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "1.8%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "2.1%",
+  "Effectiveness": "1.1%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.9%",
+  "Recyling, Recovery, Waste": "0.5%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec4"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "1.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "1.7%",
+  "Effectiveness": "1.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.8%",
+  "Recyling, Recovery, Waste": "0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec5"
+  },
+  "Company": "SUBARU",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "1.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "1.8%",
+  "Effectiveness": "1.1%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.8%",
+  "Recyling, Recovery, Waste": "0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec6"
+  },
+  "Company": "TESLA",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "0.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.2%",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.2%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec7"
+  },
+  "Company": "TESLA",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "0.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.1%",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec8"
+  },
+  "Company": "TESLA",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "0.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.2%",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ec9"
+  },
+  "Company": "TESLA",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "0.6%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.4%",
+  "Effectiveness": "NA",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eca"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "0.0%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "1.1%",
+  "Effectiveness": "0.7%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.4%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ecb"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "0.6%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.9%",
+  "Effectiveness": "1.2%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.1%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ecc"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "0.8%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.9%",
+  "Effectiveness": "1.5%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.2%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ecd"
+  },
+  "Company": "TOYOTA MOTOR CORPORATION",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "0.2%",
+  "Affordability": "0.0%",
+  "Underserved": "0.1%",
+  "Health & Safety": "0.9%",
+  "Effectiveness": "0.8%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-1.9%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ece"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2015,
+  "Total Product": "-0.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "1.2%",
+  "Effectiveness": "0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.5%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ecf"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2016,
+  "Total Product": "-0.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "1.6%",
+  "Effectiveness": "-0.3%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.4%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed0"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2017,
+  "Total Product": "-0.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "1.4%",
+  "Effectiveness": "0.0%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.5%",
+  "Recyling, Recovery, Waste": "0.4%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed1"
+  },
+  "Company": "VOLKSWAGEN GROUP",
+  "Industry": "Auto",
+  "Year": 2018,
+  "Total Product": "0.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "1.4%",
+  "Effectiveness": "0.7%",
+  "Basic Need": "NA",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "-2.3%",
+  "Recyling, Recovery, Waste": "0.3%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed2"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2015,
+  "Total Product": "18.7%",
+  "Affordability": "12.4%",
+  "Underserved": "7.3%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-0.9%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed3"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2016,
+  "Total Product": "20.4%",
+  "Affordability": "14.0%",
+  "Underserved": "6.7%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-0.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed4"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2017,
+  "Total Product": "17.1%",
+  "Affordability": "15.5%",
+  "Underserved": "6.3%",
+  "Health & Safety": "-5.3%",
+  "Effectiveness": "0.6%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed5"
+  },
+  "Company": "Capital One",
+  "Industry": "Finance",
+  "Year": 2018,
+  "Total Product": "22.0%",
+  "Affordability": "20.7%",
+  "Underserved": "6.0%",
+  "Health & Safety": "-4.9%",
+  "Effectiveness": "0.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed6"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2015,
+  "Total Product": "-15.5%",
+  "Affordability": "0.3%",
+  "Underserved": "1.2%",
+  "Health & Safety": "-8.5%",
+  "Effectiveness": "-8.4%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed7"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2016,
+  "Total Product": "-10.6%",
+  "Affordability": "0.2%",
+  "Underserved": "0.9%",
+  "Health & Safety": "-6.7%",
+  "Effectiveness": "-5.0%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed8"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2017,
+  "Total Product": "-9.9%",
+  "Affordability": "0.1%",
+  "Underserved": "0.9%",
+  "Health & Safety": "-7.0%",
+  "Effectiveness": "-3.8%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ed9"
+  },
+  "Company": "Synchrony",
+  "Industry": "Finance",
+  "Year": 2018,
+  "Total Product": "-10.6%",
+  "Affordability": "0.1%",
+  "Underserved": "0.8%",
+  "Health & Safety": "-7.0%",
+  "Effectiveness": "-4.5%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eda"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2015,
+  "Total Product": "65.1%",
+  "Affordability": "51.4%",
+  "Underserved": "20.4%",
+  "Health & Safety": "-9.2%",
+  "Effectiveness": "2.7%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4edb"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2016,
+  "Total Product": "58.4%",
+  "Affordability": "44.3%",
+  "Underserved": "21.1%",
+  "Health & Safety": "-9.5%",
+  "Effectiveness": "2.6%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4edc"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2017,
+  "Total Product": "43.5%",
+  "Affordability": "32.6%",
+  "Underserved": "18.4%",
+  "Health & Safety": "-10.0%",
+  "Effectiveness": "2.6%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4edd"
+  },
+  "Company": "Discover",
+  "Industry": "Finance",
+  "Year": 2018,
+  "Total Product": "27.1%",
+  "Affordability": "17.3%",
+  "Underserved": "18.7%",
+  "Health & Safety": "-12.2%",
+  "Effectiveness": "3.5%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ede"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2015,
+  "Total Product": "-2.6%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-3.6%",
+  "Effectiveness": "1.0%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "-0.1%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4edf"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2016,
+  "Total Product": "-2.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-3.6%",
+  "Effectiveness": "1.3%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee0"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2017,
+  "Total Product": "-1.7%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-3.7%",
+  "Effectiveness": "2.1%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee1"
+  },
+  "Company": "American Express",
+  "Industry": "Finance",
+  "Year": 2018,
+  "Total Product": "-1.8%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-3.6%",
+  "Effectiveness": "1.8%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee2"
+  },
+  "Company": "American",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "Total Product": "-5.8%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-5.7%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-0.1%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee3"
+  },
+  "Company": "American ",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "Total Product": "-0.2%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-0.1%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee4"
+  },
+  "Company": "American",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "Total Product": "2.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "3.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-0.8%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee5"
+  },
+  "Company": "American",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "Total Product": "-4.9%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "0.8%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-5.6%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee6"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "Total Product": "1.2%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "1.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee7"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "Total Product": "1.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "1.4%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee8"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "Total Product": "1.6%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "4.4%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-2.7%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ee9"
+  },
+  "Company": "Delta",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "Total Product": "-2.0%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "3.7%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-5.7%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eea"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "Total Product": "-10.9%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-10.9%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-0.1%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eeb"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "Total Product": "-1.1%",
+  "Affordability": "2.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-3.0%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eec"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "Total Product": "0.2%",
+  "Affordability": "1.5%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-1.3%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eed"
+  },
+  "Company": "United",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "Total Product": "-7.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-4.1%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-3.3%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eee"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "Total Product": "-0.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "4.9%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-5.3%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eef"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "Total Product": "2.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.9%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-4.8%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef0"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "Total Product": "1.0%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.3%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-5.4%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef1"
+  },
+  "Company": "Southwest",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "Total Product": "0.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.6%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-6.1%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef2"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "Total Product": "8.2%",
+  "Affordability": "4.8%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "4.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-0.9%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef3"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "Total Product": "16.2%",
+  "Affordability": "10.4%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.6%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-0.8%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef4"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "Total Product": "15.4%",
+  "Affordability": "10.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.1%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-0.6%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef5"
+  },
+  "Company": "Alaska",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "Total Product": "17.4%",
+  "Affordability": "11.8%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "7.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-1.6%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef6"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2015,
+  "Total Product": "5.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.8%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-1.4%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef7"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2016,
+  "Total Product": "10.2%",
+  "Affordability": "5.2%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.2%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-1.1%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef8"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2017,
+  "Total Product": "9.1%",
+  "Affordability": "4.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "6.1%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-1.1%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4ef9"
+  },
+  "Company": "JetBlue",
+  "Industry": "Airlines",
+  "Year": 2018,
+  "Total Product": "5.7%",
+  "Affordability": "2.8%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "3.8%",
+  "Basic Need": "0.0%",
+  "Monopoly, Addiction & \nInfo failure": "-0.9%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4efa"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "Total Product": "-85.9%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-121.0%",
+  "Basic Need": "34.9%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4efb"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "Total Product": "-94.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-128.0%",
+  "Basic Need": "33.7%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4efc"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "Total Product": "-89.4%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "-5.1%",
+  "Effectiveness": "-117.6%",
+  "Basic Need": "33.1%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4efd"
+  },
+  "Company": "American Water",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "Total Product": "-86.1%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "-5.7%",
+  "Effectiveness": "-117.8%",
+  "Basic Need": "37.2%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4efe"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "Total Product": "40.4%",
+  "Affordability": "0.0%",
+  "Underserved": "2.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-51.0%",
+  "Basic Need": "89.4%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4eff"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "Total Product": "17.9%",
+  "Affordability": "0.0%",
+  "Underserved": "1.8%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-41.1%",
+  "Basic Need": "57.2%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f00"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "Total Product": "26.9%",
+  "Affordability": "0.0%",
+  "Underserved": "1.8%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-28.2%",
+  "Basic Need": "53.4%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f01"
+  },
+  "Company": "Sabesp",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "Total Product": "18.2%",
+  "Affordability": "0.0%",
+  "Underserved": "1.6%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-37.5%",
+  "Basic Need": "54.1%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f02"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "Total Product": "9.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-22.2%",
+  "Basic Need": "31.5%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f03"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "Total Product": "12.5%",
+  "Affordability": "0.0%",
+  "Underserved": "0.3%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-25.0%",
+  "Basic Need": "37.2%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f04"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "Total Product": "9.3%",
+  "Affordability": "0.0%",
+  "Underserved": "0.5%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-22.6%",
+  "Basic Need": "31.4%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f05"
+  },
+  "Company": "Severn Trent",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "Total Product": "12.0%",
+  "Affordability": "0.0%",
+  "Underserved": "0.4%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-23.0%",
+  "Basic Need": "34.6%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f06"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2015,
+  "Total Product": "-77.0%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "-78.6%",
+  "Effectiveness": "-20.7%",
+  "Basic Need": "22.3%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f07"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2016,
+  "Total Product": "3.8%",
+  "Affordability": "0.0%",
+  "Underserved": "0.0%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-22.8%",
+  "Basic Need": "26.7%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f08"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2017,
+  "Total Product": "2.6%",
+  "Affordability": "0.0%",
+  "Underserved": "0.2%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-21.7%",
+  "Basic Need": "24.1%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+},
+{
+  "_id": {
+    "$oid": "66138cb980252ee8c51e4f09"
+  },
+  "Company": "United Utilities",
+  "Industry": "Water Utilities",
+  "Year": 2018,
+  "Total Product": "2.8%",
+  "Affordability": "0.0%",
+  "Underserved": "0.3%",
+  "Health & Safety": "0.0%",
+  "Effectiveness": "-22.4%",
+  "Basic Need": "24.9%",
+  "Monopoly, Addiction & \nInfo failure": "0.0%",
+  "Pollutants & Efficiency": "0.0%",
+  "Recyling, Recovery, Waste": "0.0%"
+}]
