@@ -1,0 +1,13 @@
+Column (As Provided),Suggested Regular Expression Format,Reference Methodology,Description,Provenance,Format As,Currency
+Company,Company,N/A,The name of the publicly traded company,Public data,Text string,
+Industry,Industry,N/A,The industry of the company referenced,Public data,Text string,
+Year,Year,N/A,The year of the data release upon which the calculations were made,Public data,Year,
+Total_Product_Impact_Calculated,Total product impact (as calculated),,"The monetary total of the product impact as it was calculated by IWAI. This variable is a sum of the various ""impact coefficients""",IWAI,Integer,USD
+EBIDTA,EBIDTA,,"Earnings Before Interest, Taxes, Depreciration, Ammortization. As reported.",Public data,Integer,USD
+Affordability_Calculated,Affordability (calculated),Will be added,A calculation of the product's monetised affordability based upon IWAI's methodologies ,IWAI,Integer,USD
+Underserved_Calculated,Underserved (calculated),Will be added,A calculation of the product's monetised 'underserved' variable based upon IWAI's methodologies ,IWAI,Integer,USD
+HealthSafety_Calculated,Health and Safety (calculated),Will be added,A calculation of the product's monetised 'health and safety' variable based upon IWAI's methodologies ,IWAI,Integer,USD
+Effectiveness_Calculated,Effectiveness (calculated),Will be added,A calculation of the product's monetised 'effectiveness' variable based upon IWAI's calculations,IWAI,Integer,USD
+Addiction_Calculated,Addiction (calculated),Will be added,A calculation of the product's monetised 'addiction' variable based upon IWAI's calculations,IWAI,Integer,USD
+Pollutants_Calculated,Pollutants (calculated),Will be added,A calculation of the product's monetised 'pollutants' variable based upon IWAI's calculations,IWAI,Integer,USD
+Recycling_Calculated,Recycling (calculated),Will be added,"A calculation of the product's monetised 'recycling, waste, reuse' variable based upon IWAI's calculations",IWAI,Integer,USD
