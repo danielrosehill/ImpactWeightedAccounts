@@ -31,13 +31,13 @@ The CSVs presented should (operative world: should!) pass validation for common 
 
 ## Attribution And Notes 
 
-**This project is a personal project and is not affiliated with any of the entities that may be mentioned here.** 
+⚠️  **This project is a personal project and is not affiliated with any of the entities that may be mentioned here.** 
 
 Every effort has been made to offer proper attribution to the original authors of the datasets and work - and to distinguish between original data and analyses conducted on the basis of that work.
 
 ------
 
-## Important Folders (A Map To This Repository!)
+## 🗺️ Important Folders (A Map To This Repository!)
 
 | Folder                   | The Goodies Inside                                           |
 | ------------------------ | ------------------------------------------------------------ |
@@ -49,7 +49,7 @@ Every effort has been made to offer proper attribution to the original authors o
 | Queries                  | Preformatted SQL queries for running on the datasets to yield interesting results ... or directions for further analysis |
 | Visualisations           | This directory will host visualisations from the datasets referenced both in Markdown (images and explanations) and in image formats. |
 
-## Quick Downloads & Links
+## 📁 Quick Downloads & Links
 
 Use the **validation dataset** to test-drive the data.
 
