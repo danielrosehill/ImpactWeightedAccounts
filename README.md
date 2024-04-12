@@ -1,6 +1,10 @@
 # Impact Weighted Accounts: Datasets And Visualisations
 
+
+
 ![](images/negandpos.png)
+
+*Above: an example visualisation derived from the Impact Weighted Accounts Initiative (IWAI) product impact dataset (2021). The left column shows companies with the most positive monetised impact created, organised from highest to lowest. The right column shows the companies with the most negative total monetised impact created, organised from "highest" (most negative) to lowest (least negative)*
 
 This Github repository was created to host data releases and data visualisations for prospective impact-weighted accounting methodologies.
 
