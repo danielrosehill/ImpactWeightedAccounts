@@ -1,4 +1,6 @@
-# Impact Weighted Accounts
+# Impact Weighted Accounts: Datasets And Visualisations
+
+![](images/negandpos.png)
 
 This Github repository was created to host data releases and data visualisations for prospective impact-weighted accounting methodologies.
 
