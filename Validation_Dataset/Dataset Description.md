@@ -10,6 +10,24 @@ Here's a description of the files:
 | **IWAI_Product_Impact_Data_2021.csv**              | **This is the validation dataset.** It has been formatted for ingress into data analysis tools with no whitespaces in the header row |
 | IWAI_Product_Impact_Dataset_Field_Descriptions.csv | This document describes the information presented in the validation dataset |
 
+
+
+Columns: 13
+
+Values from financial reports: 1 (EBITDA)
+
+The values from IWAI analysis are:
+
+- "Total product impact" (expressed as USD). This is the monetised impact of the following **8** variables:
+  - Affordability , calculated
+  - Underserved, calculated
+  - Health and Safety, calculated
+  - Effectiveness, calculated
+  - Basic need, calculated
+  - Addiction, calculated
+  - Pollution intensity, calculated
+  - Recycling and waste, calculated
+
 ## Validated Databases Types:
 
 Have validated imports of this file to the following database servers (or pending):
